@@ -39,6 +39,9 @@ section#redes-sociais > a > img{
     margin: 10px;
     box-shadow:1px 1px 5px rgba(0, 0, 0, 0.486);
 }
+section#redes-sociais{
+    text-align: right;
+}
 section#redes-sociais img:hover{
     width: 55px;
     border: 2px solid white;
