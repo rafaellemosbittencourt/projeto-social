@@ -21,7 +21,7 @@ section#celular{
     width: 311px;
     background:url('../imagens/frame-iphone.png');
     background-repeat: no-repeat;
-    border: 1p solid black;
+    border: 2px solid rgba(155, 155, 155, 0.315);
 
     left: 50%; 
     top: 50%;
